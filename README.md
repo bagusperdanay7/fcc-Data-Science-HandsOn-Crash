@@ -48,8 +48,8 @@ git clone https://github.com/bagusperdanay7/fcc-Data-Science-HandsOn-Crash.git "
 
 ### Run Program
 
-Buka teminal, ketikkan perintah:
+Buka teminal, masuk ke direktori persis dari proyek, dan ketikkan perintah:
 
 ```shell
-dart run .\bin\namafile.dart
+jupyter lab
 ```
