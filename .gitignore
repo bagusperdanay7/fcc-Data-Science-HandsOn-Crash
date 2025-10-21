@@ -1,0 +1,12 @@
+# Jupyter notebook checkpoints directory
+.ipynb_checkpoints/
+
+# Python cache directory
+__pycache__/
+
+# macOS metadata files (if applicable)
+.DS_Store
+
+# Virtual environment directory (common names)
+venv/
+env/
